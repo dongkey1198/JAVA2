@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6_While;
 
 import java.util.Scanner;
 
