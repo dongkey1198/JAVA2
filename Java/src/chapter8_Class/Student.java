@@ -6,6 +6,14 @@ public class Student {
 	public String studentName;
 	public String address;
 	
+	public Student() {}
+	
+	public Student(int id, String name) {
+		studentID = id;
+		studentName = name;
+		address = "주소없음";
+	}
+	
 	public void showSudentInfo() {
 		System.out.println("이름: " + studentName);
 		System.out.println("아이디: " + studentID);
