@@ -10,6 +10,8 @@ public class MyDateTest {
 		date.setMonth(10);
 		date.setDay(10);
 		
+		MyDate date2 = new MyDate();
+		
 		date.showDate();
 	}
 

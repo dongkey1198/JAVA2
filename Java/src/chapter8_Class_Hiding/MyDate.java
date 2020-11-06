@@ -10,7 +10,7 @@ public class MyDate {
 	public void setDay(int day) {
 		this.day = day;
 	}
-	public int getDay() {
+	public int getDay() { 
 		return day;
 	}
 	public void setMonth(int month) {
