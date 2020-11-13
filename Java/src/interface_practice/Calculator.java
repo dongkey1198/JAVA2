@@ -14,6 +14,17 @@ public abstract class Calculator implements Calc {
 		return num1 - num2;
 	}
 
+	@Override
+	public int times(int num1, int num2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int divide(int num1, int num2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 
 
 }
