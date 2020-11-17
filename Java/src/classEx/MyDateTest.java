@@ -48,7 +48,7 @@ public class MyDateTest {
 		
 		System.out.println(date1.equals(date2));
 		System.out.println(date1.hashCode());
-		System.out.println(date2.hashCode());s
+		System.out.println(date2.hashCode());
 	}
 
 }
