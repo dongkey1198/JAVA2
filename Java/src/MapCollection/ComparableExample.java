@@ -12,7 +12,7 @@ class Car implements Comparable<Car>{
 	}
 	
 	public String getModel(){
-		return this.modelYear + "식" + this.modelName + " " + this.colo
+		return this.modelYear + "식" + this.modelName + " " + this.color;
 
 	}
 	
